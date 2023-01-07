@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: lab2, Configuration: Debug Any CPU ------
+1>  lab2 -> D:\Users\Creepertvlt\Desktop\KTU\Coding\lab2\lab2\bin\Debug\lab2.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

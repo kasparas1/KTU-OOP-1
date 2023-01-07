@@ -1,0 +1,8 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\bin\Debug\kd1.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\bin\Debug\kd1.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\bin\Debug\kd1.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\obj\Debug\kd1.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\obj\Debug\kd1.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\obj\Debug\kd1.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\obj\Debug\kd1.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\kd1\kd1\obj\Debug\kd1.pdb

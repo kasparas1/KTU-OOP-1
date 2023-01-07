@@ -1,0 +1,7 @@
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.exe
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\bin\Debug\Introduction.SimpleMath.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.exe
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.SimpleMath\Introduction.SimpleMath\obj\Debug\Introduction.SimpleMath.pdb

@@ -1,0 +1,16 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\Lab5_sav.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\Lab5_sav.deps.json
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\Lab5_sav.runtimeconfig.json
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\Lab5_sav.runtimeconfig.dev.json
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\Lab5_sav.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\ref\Lab5_sav.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\bin\Debug\net5.0\Lab5_sav.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.AssemblyInfoInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.AssemblyInfo.cs
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\ref\Lab5_sav.dll
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5_sav\Lab5_sav\obj\Debug\net5.0\Lab5_sav.genruntimeconfig.cache

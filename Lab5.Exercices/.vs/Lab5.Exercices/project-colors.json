@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c11a9dfa-e5bb-4acb-9645-346f0934449f": {
+      "ProjectGuid": "c11a9dfa-e5bb-4acb-9645-346f0934449f",
+      "DisplayName": "Lab5.Register",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "9b4a0608-4973-4cd0-8f5b-78332861f555": {
+      "ProjectGuid": "9b4a0608-4973-4cd0-8f5b-78332861f555",
+      "DisplayName": "Lab5.Register2",
+      "ColorIndex": 1
+    },
+    "2686c686-5ee1-41bf-a6e7-a230c410a7af": {
+      "ProjectGuid": "2686c686-5ee1-41bf-a6e7-a230c410a7af",
+      "DisplayName": "Lab5.Register3",
+      "ColorIndex": 2
+    },
+    "207f70f2-906d-406a-9312-7d9e5827aa02": {
+      "ProjectGuid": "207f70f2-906d-406a-9312-7d9e5827aa02",
+      "DisplayName": "Lab5.Register4",
+      "ColorIndex": 3
+    },
+    "adf2bd1e-cbb2-4ca4-aa3a-a87d71e539bc": {
+      "ProjectGuid": "adf2bd1e-cbb2-4ca4-aa3a-a87d71e539bc",
+      "DisplayName": "Lab5.Register5",
+      "ColorIndex": 4
+    },
+    "85ecb1c8-f280-45d2-86dd-496ae75b3893": {
+      "ProjectGuid": "85ecb1c8-f280-45d2-86dd-496ae75b3893",
+      "DisplayName": "Lab5.Register5",
+      "ColorIndex": 5
+    },
+    "2446848a-f4a8-45aa-b8e1-3faf55ee07d4": {
+      "ProjectGuid": "2446848a-f4a8-45aa-b8e1-3faf55ee07d4",
+      "DisplayName": "Lab5.Register5",
+      "ColorIndex": 6
+    },
+    "89ca4885-fee4-4538-82f2-ec3e889f3115": {
+      "ProjectGuid": "89ca4885-fee4-4538-82f2-ec3e889f3115",
+      "DisplayName": "Lab5.Register6",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

@@ -1,0 +1,8 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\obj\Debug\Lab5.Exercises.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\bin\Debug\Lab5.Exercises.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\bin\Debug\Lab5.Exercises.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\obj\Debug\Lab5.Exercises.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercises.Register\Lab5.Exercises\obj\Debug\Lab5.Exercises.pdb

@@ -1,0 +1,8 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\bin\Debug\kd2.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\bin\Debug\kd2.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\bin\Debug\kd2.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\obj\Debug\kd2.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\obj\Debug\kd2.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\obj\Debug\kd2.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\obj\Debug\kd2.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\kd2\kd2\obj\Debug\kd2.pdb

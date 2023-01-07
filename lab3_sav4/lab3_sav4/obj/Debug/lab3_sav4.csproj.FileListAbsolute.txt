@@ -1,0 +1,14 @@
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\bin\Debug\lab3_sav4.exe.config
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\bin\Debug\lab3_sav4.exe
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\bin\Debug\lab3_sav4.pdb
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.csprojAssemblyReference.cache
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.csproj.CoreCompileInputs.cache
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.exe
+C:\Users\Creepertvlt\source\repos\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\obj\Debug\lab3_sav4.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\bin\Debug\lab3_sav4.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\bin\Debug\lab3_sav4.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\lab3_sav4\lab3_sav4\bin\Debug\lab3_sav4.pdb

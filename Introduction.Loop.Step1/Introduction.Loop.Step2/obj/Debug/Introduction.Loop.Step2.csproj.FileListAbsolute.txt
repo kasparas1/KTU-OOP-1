@@ -1,0 +1,6 @@
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.Loop.Step1\Introduction.Loop.Step2\bin\Debug\Introduction.Loop.Step2.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.Loop.Step1\Introduction.Loop.Step2\bin\Debug\Introduction.Loop.Step2.exe
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.Loop.Step1\Introduction.Loop.Step2\bin\Debug\Introduction.Loop.Step2.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.Loop.Step1\Introduction.Loop.Step2\obj\Debug\Introduction.Loop.Step2.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.Loop.Step1\Introduction.Loop.Step2\obj\Debug\Introduction.Loop.Step2.exe
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.Loop.Step1\Introduction.Loop.Step2\obj\Debug\Introduction.Loop.Step2.pdb

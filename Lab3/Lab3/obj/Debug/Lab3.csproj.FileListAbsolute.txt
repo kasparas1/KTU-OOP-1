@@ -1,0 +1,16 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab3\Lab3\obj\Debug\Lab3.pdb

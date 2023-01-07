@@ -1,0 +1,7 @@
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\obj\Debug\Introduction.If.Step1.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\obj\Debug\Introduction.If.Step1.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\bin\Debug\Introduction.If.Step1.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\bin\Debug\Introduction.If.Step1.exe
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\bin\Debug\Introduction.If.Step1.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\obj\Debug\Introduction.If.Step1.exe
+D:\Users\Creepertvlt\Desktop\KTU\Introduction.If.Step1\Introduction.If.Step1\obj\Debug\Introduction.If.Step1.pdb

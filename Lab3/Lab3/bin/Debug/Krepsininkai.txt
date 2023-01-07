@@ -1,0 +1,22 @@
+﻿Metai
+Stovyklos Pradzia
+Stovyklos pabaiga
+--------------------------------------------------------------------------------------------------------------------
+|     Vardas | Pavarde           | Gimimo data | Ugis         | Pozicija | Klubas   | Ar pakviestas  | Ar kapitonas |
+--------------------------------------------------------------------------------------------------------------------
+|   EGIDIJUS | VAITKŪNAS         | 1991-11-02  | 181      cm. | Gynėjas  | Zalgeris | True            | False    |
+|     PHILIP | OTELE             | 1972-12-14  | 185      cm. | Puolėjas | Rytas    | False           | False    |
+|  Eugenijus | Smiltainis        | 1972-11-02  | 181      cm. | Saugas   | Rytas    | True            | True     |
+|    Michael | Thuique           | 1943-02-12  | 180      cm. | Puolėjas | Neptunas | False           | False    |
+--------------------------------------------------------------------------------------------------------------------
+Metai
+Stovyklos Pradzia
+Stovyklos pabaiga
+--------------------------------------------------------------------------------------------------------------------
+|     Vardas | Pavarde           | Gimimo data | Ugis         | Pozicija | Klubas   | Ar pakviestas  | Ar kapitonas |
+--------------------------------------------------------------------------------------------------------------------
+|   EGIDIJUS | VAITKŪNAS         | 1991-11-02  | 181      cm. | Gynėjas  | Washington | False           | False    |
+|     PHILIP | OTELE             | 1972-12-14  | 185      cm. | Puolėjas | Yankees  | False           | False    |
+|  Eugenijus | Smiltainis        | 1943-11-02  | 181      cm. | Saugas   | Rytas    | False           | True     |
+|    Michael | Thuique           | 1943-11-12  | 180      cm. | Puolėjas | Barselona | False           | False    |
+--------------------------------------------------------------------------------------------------------------------

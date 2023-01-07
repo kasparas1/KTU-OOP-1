@@ -1,0 +1,8 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\bin\Debug\Lab5.Register5.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\bin\Debug\Lab5.Register5.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\bin\Debug\Lab5.Register5.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\obj\Debug\Lab5.Register5.csproj.AssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\obj\Debug\Lab5.Register5.csproj.SuggestedBindingRedirects.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\obj\Debug\Lab5.Register5.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\obj\Debug\Lab5.Register5.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\c#\Lab5.Exercices\Lab5.Register5\obj\Debug\Lab5.Register5.pdb

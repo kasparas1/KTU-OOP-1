@@ -1,0 +1,14 @@
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2. Exercises.Register.csprojAssemblyReference.cache
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2. Exercises.Register.csproj.CoreCompileInputs.cache
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+C:\Users\Creepertvlt\source\repos\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\bin\Debug\Lab2.Exercises.Register.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\bin\Debug\Lab2.Exercises.Register.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2. Exercises.Register.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2. Exercises.Register.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2.Exercises.Register.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab2. Exercises\Lab2. Exercises.Register\obj\Debug\Lab2.Exercises.Register.pdb

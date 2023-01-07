@@ -1,0 +1,7 @@
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\bin\Debug\Lab3.Exercises.Register.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3. Exercises.Register.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\Lab3.Exercises\Lab3. Exercises.Register\obj\Debug\Lab3.Exercises.Register.pdb

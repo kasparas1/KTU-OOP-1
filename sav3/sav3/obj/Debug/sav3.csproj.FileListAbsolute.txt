@@ -1,0 +1,14 @@
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\bin\Debug\sav3.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\bin\Debug\sav3.exe
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\bin\Debug\sav3.pdb
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\obj\Debug\sav3.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\obj\Debug\sav3.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\obj\Debug\sav3.exe
+D:\Users\Creepertvlt\Desktop\KTU\sav3\sav3\obj\Debug\sav3.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\bin\Debug\sav3.exe.config
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\bin\Debug\sav3.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\bin\Debug\sav3.pdb
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\obj\Debug\sav3.csprojAssemblyReference.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\obj\Debug\sav3.csproj.CoreCompileInputs.cache
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\obj\Debug\sav3.exe
+D:\Users\Creepertvlt\Desktop\KTU\Coding\sav3\sav3\obj\Debug\sav3.pdb
